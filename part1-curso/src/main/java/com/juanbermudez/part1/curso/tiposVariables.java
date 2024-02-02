@@ -22,8 +22,6 @@ public class tiposVariables {
         //boolean
         boolean bandera_A = true;
         boolean bandera_B = false;
-        
-        
-        
+    
     }
 }
