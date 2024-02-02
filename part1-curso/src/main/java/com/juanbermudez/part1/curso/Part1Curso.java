@@ -4,6 +4,7 @@ package com.juanbermudez.part1.curso;
 /**
  *
  * @author juanb
+ * 
  */
 public class Part1Curso {
 
