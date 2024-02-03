@@ -9,7 +9,8 @@ public class Part3Curso {
         //condicionales2 condiciones = new condicionales2();
         //condicionales3 condiciones = new condicionales3();
         //condicionales4 condiciones = new condicionales4();
-        condicionales5 condiciones = new condicionales5();
+        //condicionales5 condiciones = new condicionales5();
+        ejercicio3 ejercicio = new ejercicio3();
 
     }
     
